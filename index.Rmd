@@ -1,0 +1,28 @@
+---
+title: "Welcome!"
+---
+
+<img src="personal photo.jpeg" style="width:75%">
+
+My name is Shuang Wu, a graduate student majoring in biostatistics at [Columbia University](https://www.columbia.edu). I have got a Bachelor degree in Statistics at [Sun Yat-sen Unieristy](http://www.sysu.edu.cn/2012/en/index.htm).
+
+Having great experience in data analysis, I am intersted in probability, statistical inference, data mining and machine learning. My goal is to be a data scientist. If you have same interest and want to know me in a further step, feel free to contact me!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

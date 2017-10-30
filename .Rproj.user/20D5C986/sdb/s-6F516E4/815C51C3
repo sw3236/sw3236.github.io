@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Welcome!\"\n---\n\n<img src=\"personal photo.jpeg\" style=\"width:75%\">\n\nMy name is Shuang Wu, a graduate student majoring in biostatistics at [Columbia University](https://www.columbia.edu). I have got a Bachelor degree in Statistics at [Sun Yat-sen Unieristy](http://www.sysu.edu.cn/2012/en/index.htm).\n\nHaving great experience in data analysis, I am intersted in probability, statistical inference, data mining and machine learning. My goal is to be a data scientist. If you have same interest and want to know me in a further step, feel free to contact me!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "created" : 1509323533914.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1855184666",
+    "id" : "815C51C3",
+    "lastKnownWriteTime" : 1509323535,
+    "last_content_update" : 1509323535333,
+    "path" : "~/Documents/columbia/biostat/P8105/p8105_hw/p8105_hw4_sw3236/sw3236.github.io/index.Rmd",
+    "project_path" : "index.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
